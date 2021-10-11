@@ -1,0 +1,3 @@
+* Para correr los test de cliente hay que habilitar los dos primeros servicios en xampp, luego correr el servidor y luego correr los test.
+
+* En la prueba agregar Componente luego de correrla por primera vez hay que ir a eliminar el componente agregado por la prueba manualmente 
