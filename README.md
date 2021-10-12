@@ -23,7 +23,11 @@ Introducción: El proyecto softwarefood desarroolla una aplicación que permite 
 
 El proyecto desarrolla la combinación de los siguientes patrones arquitecturales: cliente-servidor, microkernel, patrón hexagonal.
 
-Documentación 
+Documentación
+
+Video de Youtube: 
+
+https://www.youtube.com/watch?v=kMlWZKJ2b-M&list=LL
 
 Documento:
 
