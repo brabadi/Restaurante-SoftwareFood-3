@@ -29,6 +29,10 @@ Video de Youtube:
 
 https://www.youtube.com/watch?v=kMlWZKJ2b-M&list=LL
 
+Manual del Usuario:
+
+https://docs.google.com/document/d/15IvIwxnsvT8QYTCSAW7bn6nG62kkaxkI/edit?usp=sharing&ouid=108664775321849484668&rtpof=true&sd=true
+
 Documento:
 
 https://docs.google.com/document/d/1oHjMY_NgJqjgeQv5pfWt-9NdY1jwIeX2/edit?usp=sharing&ouid=108664775321849484668&rtpof=true&sd=true
